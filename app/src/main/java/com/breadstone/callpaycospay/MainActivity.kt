@@ -17,6 +17,5 @@ class MainActivity : AppCompatActivity() {
             startActivity(it)
         }
         finishAndRemoveTask()
-
     }
 }
